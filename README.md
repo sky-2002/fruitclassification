@@ -14,4 +14,5 @@ The table below summarizes the different approaches used and accuracy obtained:<
 |CNN architecture with 3 Conv2D and 2 MaxPool|88%|
 |CNN architecture in the image below|95%
 ![](./Designed-CNN-architecture-for-fruit-classification.png)
-|CNN using altered VGG16 architecture|97%
+|CNN using altered VGG16 architecture given below|97%
+![](./vggal.jpg)
