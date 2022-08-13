@@ -16,3 +16,5 @@ The table below summarizes the different approaches used and accuracy obtained:<
 ![](./Designed-CNN-architecture-for-fruit-classification.png)
 |CNN using altered VGG16 architecture given below|97%
 ![](./vggal.jpg)
+|CNN using transfer learning on Inception V3 architecture given below|98.5%
+![](./iv3.png)
