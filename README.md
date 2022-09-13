@@ -8,7 +8,7 @@ The table below summarizes the different approaches used and accuracy obtained:<
 |HOG using prototype to test|42%|
 |KNN with HOG features|70%|
 
-### Using comples methods like CNNs.
+### Experimenting with complex methods like CNNs.
 |Approach|Accuracy|
 |--------|--------|
 |CNN architecture with 3 Conv2D and 2 MaxPool|88%|
